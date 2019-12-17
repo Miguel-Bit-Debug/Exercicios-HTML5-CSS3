@@ -1,0 +1,45 @@
+body{
+    background: white;
+    
+}
+
+#imagem{
+    position: absolute;
+    width: 500px;
+    top: 160px;
+    left: 410px;
+    text-align: center;
+}
+
+
+#um{
+    width: 1368px;
+    height: 120px;
+    background-color: black;
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    
+}
+
+#dois{
+    width: 190px;
+    height: 100%;
+    background-color: red;
+    position: absolute;
+    top: 118px;
+    left: -2px;
+    border-style: solid;
+    border-width: 2px 5px 4px 20px;
+}
+
+#tres{
+    width: 190px;
+    height: 100%;
+    background-color: red;
+    position: absolute;
+    top: 118px;
+    left: 1158px;
+    border-style: solid;
+  border-width: 2px 1px 4px 6px;
+}

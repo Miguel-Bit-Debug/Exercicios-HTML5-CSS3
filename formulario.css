@@ -1,0 +1,67 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: rgba(124, 56, 202, 0.438);
+}
+
+header{
+    position: absolute;
+    left: 1px;
+    font-size: 50px;
+    color: midnightblue;
+    
+}
+
+#banner{
+    width: 100%;
+    height: 70px;
+    background-color: rgba(47, 0, 255, 0.288);
+}
+
+#imagem1{
+    width: 390px;
+    height: 462px;
+    position: absolute;
+    
+    top: 71px;    
+}
+
+#imagem2{
+    width: 388px;
+    height: 500px;
+    position: absolute;
+    left: 980px;
+    top: 71px; 
+}
+
+#tabela{
+    color: rgba(0, 0, 0, 0.849);
+    text-align: center;
+    border: solid black;
+    position: absolute;
+    left: 430px;
+    width: 500px;
+    background-color: cadetblue;
+}
+
+#rodape{
+    border: 1px solid black;
+    width: 250px;
+    height: 45px;
+    position: absolute;
+    top: 580px;
+}
+
+#texto{
+    position: absolute;
+    top: 20px;
+}
+
+#endereco{
+    position: absolute;
+    text-align: center;
+}
+
+form > div{
+    display: block;
+}

@@ -1,0 +1,70 @@
+body{
+    padding: 0;
+    margin: 0;
+    border: 1px solid red;
+    width: 1000px;
+    height: 600px;
+}
+
+
+.cabecalho{
+    border: 1px solid red;
+    width: 1000px;
+    height: 120px;
+}
+
+.cabecalho2{
+    border: 2px solid red;
+    width: 999px;
+    height: 35px;
+    text-align: center;
+    background: yellow;
+}
+
+.menu{
+    border: 1px solid red;
+    width: 100px;
+    height: 385px;
+    position: absolute;
+    top: 160px;
+}
+
+.feed{
+    border: 1px solid red;
+    width: 890px;
+    height: 50px;
+    position: absolute;
+    top: 160px;
+    left: 110px;
+    background: rgb(255, 255, 154);
+
+}
+
+.feed2{
+    border: 1px solid red;
+    width: 890px;
+    height: 350px;
+    position: absolute;
+    top: 161px;
+    left: 110px;
+    background: rgb(255, 255, 154);
+}
+
+.feed3{
+    border: 1px solid red;
+    width: 890px;
+    height: 35px;
+    position: absolute;
+    top: 511px;
+    left: 110px;
+    background: rgb(255, 255, 154);
+}
+
+.rodape{
+    border: 1px solid red;
+    width: 999px;
+    height: 50px;
+    position: absolute;
+    top: 545px;
+    background: rgb(255, 255, 154);
+}
